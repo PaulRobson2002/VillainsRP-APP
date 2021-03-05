@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillainsRP APP.Android", "V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillainsRP APP.iOS", "VillainsRP APP.iOS\VillainsRP APP.iOS.csproj", "{78061660-BD68-4133-971E-93E9CD3702BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillainsRP APP", "VillainsRP APP\VillainsRP APP.csproj", "{6D606F67-D0FF-46CB-8925-DA61E0CB520C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VillainsRP APP", "VillainsRP APP\VillainsRP APP.csproj", "{6D606F67-D0FF-46CB-8925-DA61E0CB520C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
