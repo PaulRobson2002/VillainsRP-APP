@@ -44,7 +44,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                 </Label>
-                <Button Text="Discord" Padding="0,0,0,0" Margin="0,50,0,0" />
+                <Button Text="Discord" Padding="0,0,0,0" Margin="0,50,0,0" Clicked="GoToDiscord"/>
             </StackLayout>
             
 
