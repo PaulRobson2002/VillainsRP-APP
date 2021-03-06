@@ -1,4 +1,3 @@
-[![Discord](https://img.shields.io/discord/791854454760013827.svg?label=Villains RP Discord&logo=discord)](https://discord.gg/5u7apyVAnk)
 
 
 # VillainsRP-APP
