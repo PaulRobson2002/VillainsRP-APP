@@ -6,4 +6,4 @@ This app is designed to give users all infomation that they will need about the 
 
 # Main Screen
 
-<img src="https://imgur.com/Hw75grb.png" width="200" height="400" />
+<img src="https://imgur.com/Hw75grb.png" width="250" height="500" />
