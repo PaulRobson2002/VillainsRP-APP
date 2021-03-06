@@ -44,8 +44,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                 </Label>
-                <Label Text="Our Discord" TextTransform="Uppercase" HorizontalOptions="Center"  TextColor="Black" FontSize="24"/>
-                <Button Text="Discord" Padding="0,0,0,0" />
+                <Button Text="Discord" Padding="0,0,0,0" Margin="0,50,0,0" />
             </StackLayout>
             
 
